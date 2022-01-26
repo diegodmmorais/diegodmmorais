@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi, I'm Diego Silva Morais</h1>
-<h3 align="center">A full stack developer passionate about technologies</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegodmmorais&label=Profile%20views&color=0e75b6&style=flat" alt="diegodmmorais" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegodmmorais" alt="diegodmmorais" /></a> </p>
+<h3 align="left">A full stack developer passionate about technologies</h3>
 
 - I’m currently working on [Onboarding PJ Santander - creation of bank accounts for companies](https://www.santander.com.br/conta-empresarial/)
 
@@ -16,6 +13,10 @@
 - How to reach me **diego.dm.morais@gmail.com**
 
 - Know about my experiences [https://www.linkedin.com/in/diego-silva-morais-0b853315b/](https://www.linkedin.com/in/diego-silva-morais-0b853315b/)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegodmmorais&label=Profile%20views&color=0e75b6&style=flat" alt="diegodmmorais" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegodmmorais" alt="diegodmmorais" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
