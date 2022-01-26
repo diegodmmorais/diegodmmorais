@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego Silva Morais</h1>
+<h1 align="center">Hi, I'm Diego Silva Morais</h1>
 <h3 align="center">A full stack developer passionate about technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegodmmorais&label=Profile%20views&color=0e75b6&style=flat" alt="diegodmmorais" /> </p>
