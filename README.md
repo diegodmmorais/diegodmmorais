@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Diego Silva Morais</h1>
 <h3 align="left">A full stack developer passionate about technologies</h3>
 
-- where am i working? [Labsit]([https://labsit.io/])
+- Where am i working? [Labsit]([https://labsit.io/])
 
 - I’m currently learning **Clean Architecture, Design Patterns, Micro-services, NextJS e NestJS**
 
