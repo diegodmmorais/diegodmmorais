@@ -6,7 +6,7 @@
 
 - I’m currently learning **Clean Architecture, Design Patterns, Micro-services, NextJS e NestJS**
 
-- All of my projects are available at [https://github.com/diegodmmorais](https://github.com/diegodmmorais), [https://gitlab.com/lukewarepocs](https://gitlab.com/lukewarepocs), [https://gitlab.com/cewi](https://gitlab.com/cewi), [https://gitlab.com/lukeware-blogs](https://gitlab.com/lukeware-blogs)
+- All of my projects are available at [https://github.com/diegodmmorais](https://github.com/diegodmmorais), [https://gitlab.com/lukewarepocs](https://gitlab.com/lukewarepocs), [https://gitlab.com/cewi](https://gitlab.com/cewi) e [https://gitlab.com/lukeware-blogs](https://gitlab.com/lukeware-blogs)
 
 - Ask me about **Java**
 
